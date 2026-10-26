@@ -1,0 +1,15 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+
+# Local secrets and runtime artifacts
+.env
+*.log
+*.tmp
+*.bak
+/uploads/
+
+# Operating system and editor files
+.DS_Store
+Thumbs.db
+.vscode/
